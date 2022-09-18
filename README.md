@@ -6,4 +6,4 @@ In particolare il progetto simulerà il caso di un abitazione intelligente in
 cui, per ogni stanza, è stato installato un sensore di luminosità che periodicamente invierà i dati raccolti. Tali dati verranno poi processati al
 fine di decidere se cambiare lo stato delle luci(acceso –> spento, spento
 –> acceso) per mantenere un’illuminazione ottimale all’interno di ognistanza.<br />
-NOTA: IL CONTENUTO DEL REPO è PARZIALE
+NOTA: IL CONTENUTO DEL REPO E' PARZIALE
