@@ -1,4 +1,4 @@
-Codice principale della mia Tesi Triennale <br />
+Tesi Triennale(backup parte principale :smile:) <br />
 L’elaborato si pone l’obiettivo di fornire una visione generale sull’argomento dell’Internet Of Things per poi mettere in pratica i concetti
 teorici acquisiti presentando un piccolo progetto che sfrutta le funzionalità messe a disposizione dal simulatore [IoT-data-simulator fornito
 dall’IBA Group.](https://github.com/IBA-Group-IT/IoT-data-simulator)
